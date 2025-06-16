@@ -3,19 +3,14 @@ owner: MiguelRipoll23 # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: TUS Santander (Web App)
+    url: https://tusestimaciones.web.app
+  - name: TUS Santander (API)
+    url: https://tusestimaciones.miguelripoll23.deno.net
+  - name: TUS JSON API
+    url: https://tus.redparsec.com
+  - name: TUS SOAP Web Service
+    url: http://195.55.43.235:9001/services/dinamica.asmx
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
