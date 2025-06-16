@@ -21,7 +21,7 @@ status-website:
   name: Upptime
   introTitle: Status page
   introMessage:
-  *navbar:
+  navbar:
     - title: Status
       href: /
     - title: GitHub
