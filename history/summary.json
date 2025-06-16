@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 264,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1699,
-    "timeDay": 1699,
-    "timeWeek": 1699,
-    "timeMonth": 1699,
-    "timeYear": 1699,
+    "time": 1580,
+    "timeDay": 1580,
+    "timeWeek": 1580,
+    "timeMonth": 1580,
+    "timeYear": 1580,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/195.55.43.235.ico",
     "slug": "tus-soap-web-service",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 285,
-    "timeDay": 285,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-06-16": 5
+      "2025-06-16": 15
     }
   }
 ]
