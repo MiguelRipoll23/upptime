@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tusestimaciones.miguelripoll23.deno.net.ico",
     "slug": "tus-api",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.96%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 338,
     "timeDay": 338,
     "timeWeek": 338,
@@ -42,19 +42,19 @@
     "url": "https://tus.redparsec.com",
     "icon": "https://icons.duckduckgo.com/ip3/tus.redparsec.com.ico",
     "slug": "tus-json-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1573,
-    "timeDay": 1573,
-    "timeWeek": 1573,
-    "timeMonth": 1573,
-    "timeYear": 1573,
+    "status": "up",
+    "uptime": "97.14%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.14%",
+    "time": 1569,
+    "timeDay": 1569,
+    "timeWeek": 1569,
+    "timeMonth": 1569,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2025-06-17": 0
+      "2025-06-17": 30
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-06-17": 600,
+      "2025-06-17": 631,
       "2025-06-16": 427
     }
   }
