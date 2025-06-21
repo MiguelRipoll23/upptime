@@ -1,7 +1,7 @@
 url: https://tus.redparsec.com
-status: down
-code: 503
-responseTime: 631
-lastUpdated: 2025-06-21T22:00:14.375Z
+status: up
+code: 200
+responseTime: 1103
+lastUpdated: 2025-06-21T22:25:06.138Z
 startTime: 2025-06-16T16:52:38.482Z
 generator: Upptime <https://github.com/upptime/upptime>
